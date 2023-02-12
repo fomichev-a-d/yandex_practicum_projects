@@ -1,13 +1,14 @@
-# Проект "Исследование рынка заведений общественного питания Москвы"
+# Catering business geo-analysis
    
-**Цель исследования** - Поиск закономерностей и особенностей, которые в помогут в выборе подходящего инвесторам места для открытия новых ресторанов.
+**Research goal** - Looking for patterns and features that help investors in choosing suitable places to open new restaurants.
 
-Датасет с заведениями общественного питания Москвы, составлен на основе данных сервисов Яндекс Карты и Яндекс Бизнес (актуальность информации: лето 2022 года). 
+Dataset with catering establishments in Moscow, compiled on the basis of data from Yandex Maps and Yandex Business services (relevance of information: summer 2022).
   
-## Ход исследования
+
+## Project pipeline
     
-1. Обзор и предобработка данных
-2. Анализ данных, поиск закономерностей
-3. Создание визуализации
-4. Применение полученной информации для написание бизнес-плана будущей кофейни
-5. Выводы
+1. Data observation and preprocessing.
+2. Data analysis, relations discovery.
+3. Visualisation.
+4. Using the information received for the opening coffee shop business plan creation.
+5. Conclusion.
